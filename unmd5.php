@@ -7,7 +7,6 @@
  */
 
 session_start ();
-defined ("K1ghtx") or die ("Direct Access Not Allowed !");
 ?>
 <center>
 	<div class="alert-box alert">Contact Me On Twitter:"@cyb3rp1"</div>
