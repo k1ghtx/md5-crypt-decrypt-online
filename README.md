@@ -1,3 +1,8 @@
+<img src="icon.png" align="right" />
+# Crypt And Decrypt MD5 Script [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://md5hash.co.nf/)
+> A Simple Way To Make Your Online Hash Decryptor
+
+
 # About
 MD5 crypt &amp; Decrypt Project
 
@@ -6,6 +11,7 @@ MD5 crypt &amp; Decrypt Project
 
 ## Contact
 #### Developer/Company
+* Coding By : Benhabi Mahdi
 * Homepage: www.md5hash.co.nf
 * e-mail: K1ghtx@gmail.com 
 * Twitter: [@cyb3rp1](https://twitter.com/cyb3rp1 "twitterhandle on twitter")
