@@ -19,4 +19,4 @@ $config['sitename'] = "sec4ever";     // Website name
 $mysql_link = mysqli_connect ($config['mysql_host'], $config['mysql_user'], $config['mysql_pass']) or die ("<b>MySQL Error</b>: Cannot Connect !");
 mysqli_select_db ($mysql_link, $config['mysql_db']) or die ("<b>MySQL Error</b>: Database not Selected !");
 
-?>
+?> 
