@@ -1,0 +1,42 @@
+/*
+ * @Author  : k1ghtx
+ * @Home    : www.sec4ever.com
+ * @Version : 1.0
+ * @Package : Online MD5 Cracker
+ */
+
+body
+{
+	margin: 0;
+	padding: 0;
+	background-image: url(images/main_bk.png);
+	background-repeat: repeat;
+	font-family: 'Abel', sans-serif;
+	font-size: 16px;
+	color: #757575;
+}
+
+input[type=submit]
+{
+	font-family: 'Abel', sans-serif;
+	font-size: 16px;
+	background-color: #1D581E;
+	border-radius: 6px 6px 6px 6px;
+}
+a
+{
+	text-decoration: none;
+	background-color: green;
+	color: black;
+	border: 1px solid white;
+	border-radius: 6px;
+	font-size: 20px;
+}
+a:hover
+{
+	background-color: #00ff00;
+}
+input[type=text]
+{
+	border: 1px solid black;
+}
