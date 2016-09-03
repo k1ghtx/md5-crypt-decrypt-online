@@ -5,9 +5,6 @@
  * @Version : 1.0
  * @Package : Online MD5 Cracker
  */
-
-defined ("K1ghtx") or die ("Direct Access Not Allowed !");
-
 ?>
 <center>
 	<div class="alert-box alert">Contact Me On Twitter:"@cyb3rp1"</div>
