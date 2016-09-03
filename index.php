@@ -9,9 +9,6 @@
 @set_time_limit (0);
 //error_reporting (0);
 
-/* Direct Access Allowed :) */
-define ("K1ghtx", 1);
-
 /* Include */
 require ("include/config.php");
 require ("include/functions.php");
