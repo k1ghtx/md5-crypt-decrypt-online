@@ -35,6 +35,4 @@ else
 	include ("unmd5.php");
 
 include ("include/footer.php");
-defined ("K1ghtx") or die ("Direct Access Not Allowed !");
-
 ?>
