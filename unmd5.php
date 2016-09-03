@@ -42,10 +42,10 @@ if (isset ($_POST["captcha"]) && !empty ($_POST["captcha"]))
 					{
 						$row = mysqli_fetch_assoc ($result);
 						$text = entity_html_tags ($row['text']);
-						echo "<strong>$md5</strong>: <font color=green>$text</font><br>";
+						echo "<font color=green><b><strong>Found : $text</strong></b></font><br><br><strong>$md5</strong>";
 					}
 					else
-						echo "<font color='red'>Not Found: </font>$md5<br>";
+						echo "<font color='red'><strong><b>Not Found :</b></strong> <br><br></font>$md5<br>";
 				}
 			}
 		}
